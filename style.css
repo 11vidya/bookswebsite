@@ -1,0 +1,35 @@
+#pic {
+  background-image: url(images/bg\ images.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.main1 {
+  height: 80px;
+}
+.main1 ul {
+  float: right;
+  display: flex;
+}
+.main1 ul li {
+  list-style-type: none;
+  padding: 2%;
+}
+.main1 ul a {
+}
+#Home {
+  display: flex;
+  gap: 2%;
+}
+#About {
+  display: flex;
+  gap: 2%;
+}
+#Services {
+  display: flex;
+  gap: 2%;
+}
+#Contact {
+  text-align: center;
+}
